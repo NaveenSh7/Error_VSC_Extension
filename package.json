@@ -8,7 +8,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NaveenSh7/VSCode_Extn_Err"
+    "url": "https://github.com/NaveenSh7/Error_VSC_Extension"
   },
  "engines": {
   "vscode": "^1.96.0"
