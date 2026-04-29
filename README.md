@@ -5,6 +5,7 @@ When you encounter errors or warnings in your code, this extension not only show
 Additionally, the extension categorizes and explains the type of errors you're encountering—whether it's a Syntax Error, Module Missing, or something more specific like a Server Error. You’ll never have to wonder what went wrong—this extension will clearly point it out!
 
 Also some major source code and inspiration is taken from Virej Dasani !
+<img width="846" height="574" alt="Screenshot 2026-04-29 235815" src="https://github.com/user-attachments/assets/fb7a7035-6982-4cd3-aba2-a218d34689c3" />
 
 <img width="945" height="601" alt="Screenshot 2026-04-29 235603" src="https://github.com/user-attachments/assets/9d488fc0-1621-4048-a011-95eaa99393d0" />
 <img width="948" height="575" alt="Screenshot 2026-04-29 235641" src="https://github.com/user-attachments/assets/aafa5ebc-f39f-47e8-ba62-99af9539ce0d" />
